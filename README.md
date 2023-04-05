@@ -9,7 +9,10 @@ The structure being categories, products, and tags identifying each product.
 The application also will add each corresponding tag to each product via the relational
 mapping, likewise with the categories.
 
+
 ## Usage
 Download the corresponding packages and initiate the server via "npm start"
 
 Once the server is running head over to insomnia and start making your desired request!
+
+Heres the video link ----> https://drive.google.com/file/d/1j11t3-9xuyUGJJ7bOX8jp1fsWNUxUBWb/view
